@@ -1,0 +1,13 @@
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.exe
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.deps.json
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.runtimeconfig.json
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.runtimeconfig.dev.json
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.dll
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\bin\Debug\netcoreapp3.1\GetSetIerarchy.pdb
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.AssemblyInfoInputs.cache
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.AssemblyInfo.cs
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.dll
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.pdb
+C:\Users\Elnur\Desktop\GetSetIerarchy\GetSetIerarchy\GetSetIerarchy\obj\Debug\netcoreapp3.1\GetSetIerarchy.genruntimeconfig.cache

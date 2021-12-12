@@ -1,0 +1,14 @@
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Users\Elnur\Desktop\UpcastingDowncasting\UpcstingDowncasting\UpcstingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
